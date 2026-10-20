@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+
+# Credenciais Google OAuth
+client_secret*.json
+token.json
+
+# Variáveis de ambiente
+.env
+
+# Arquivos temporários Python
+__pycache__/
+*.pyc
+
+# Planilhas geradas pelo RPA
+vagas_linkedin.xlsx
